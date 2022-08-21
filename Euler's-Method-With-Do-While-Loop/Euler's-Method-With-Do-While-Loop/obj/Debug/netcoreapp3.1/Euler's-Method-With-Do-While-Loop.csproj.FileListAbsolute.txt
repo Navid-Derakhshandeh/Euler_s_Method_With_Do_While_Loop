@@ -1,0 +1,13 @@
+C:\Users\N.D\Desktop\Test4\Euler's-Method-With-Do-While-Loop\Euler's-Method-With-Do-While-Loop\bin\Debug\netcoreapp3.1\Euler's-Method-With-Do-While-Loop.exe
+C:\Users\N.D\Desktop\Test4\Euler's-Method-With-Do-While-Loop\Euler's-Method-With-Do-While-Loop\bin\Debug\netcoreapp3.1\Euler's-Method-With-Do-While-Loop.deps.json
+C:\Users\N.D\Desktop\Test4\Euler's-Method-With-Do-While-Loop\Euler's-Method-With-Do-While-Loop\bin\Debug\netcoreapp3.1\Euler's-Method-With-Do-While-Loop.runtimeconfig.json
+C:\Users\N.D\Desktop\Test4\Euler's-Method-With-Do-While-Loop\Euler's-Method-With-Do-While-Loop\bin\Debug\netcoreapp3.1\Euler's-Method-With-Do-While-Loop.runtimeconfig.dev.json
+C:\Users\N.D\Desktop\Test4\Euler's-Method-With-Do-While-Loop\Euler's-Method-With-Do-While-Loop\bin\Debug\netcoreapp3.1\Euler's-Method-With-Do-While-Loop.dll
+C:\Users\N.D\Desktop\Test4\Euler's-Method-With-Do-While-Loop\Euler's-Method-With-Do-While-Loop\bin\Debug\netcoreapp3.1\Euler's-Method-With-Do-While-Loop.pdb
+C:\Users\N.D\Desktop\Test4\Euler's-Method-With-Do-While-Loop\Euler's-Method-With-Do-While-Loop\obj\Debug\netcoreapp3.1\Euler's-Method-With-Do-While-Loop.csprojAssemblyReference.cache
+C:\Users\N.D\Desktop\Test4\Euler's-Method-With-Do-While-Loop\Euler's-Method-With-Do-While-Loop\obj\Debug\netcoreapp3.1\Euler's-Method-With-Do-While-Loop.AssemblyInfoInputs.cache
+C:\Users\N.D\Desktop\Test4\Euler's-Method-With-Do-While-Loop\Euler's-Method-With-Do-While-Loop\obj\Debug\netcoreapp3.1\Euler's-Method-With-Do-While-Loop.AssemblyInfo.cs
+C:\Users\N.D\Desktop\Test4\Euler's-Method-With-Do-While-Loop\Euler's-Method-With-Do-While-Loop\obj\Debug\netcoreapp3.1\Euler's-Method-With-Do-While-Loop.csproj.CoreCompileInputs.cache
+C:\Users\N.D\Desktop\Test4\Euler's-Method-With-Do-While-Loop\Euler's-Method-With-Do-While-Loop\obj\Debug\netcoreapp3.1\Euler's-Method-With-Do-While-Loop.dll
+C:\Users\N.D\Desktop\Test4\Euler's-Method-With-Do-While-Loop\Euler's-Method-With-Do-While-Loop\obj\Debug\netcoreapp3.1\Euler's-Method-With-Do-While-Loop.pdb
+C:\Users\N.D\Desktop\Test4\Euler's-Method-With-Do-While-Loop\Euler's-Method-With-Do-While-Loop\obj\Debug\netcoreapp3.1\Euler's-Method-With-Do-While-Loop.genruntimeconfig.cache

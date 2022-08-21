@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "Euler's-Method-With-Do-While-Loop/1.0.0": {
+        "runtime": {
+          "Euler's-Method-With-Do-While-Loop.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Euler's-Method-With-Do-While-Loop/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
